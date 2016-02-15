@@ -1,4 +1,4 @@
-de.bsvrz.sys.funclib.commandLineArgs v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.commandLineArgs.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.commandLineArgs)
+de.bsvrz.sys.funclib.commandLineArgs v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.commandLineArgs.svg?branch=master)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.commandLineArgs)
 ============================================
 
 
